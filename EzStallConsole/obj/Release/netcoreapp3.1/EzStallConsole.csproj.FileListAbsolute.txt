@@ -1,0 +1,16 @@
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\EzStallConsole.exe
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\EzStallConsole.deps.json
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\EzStallConsole.runtimeconfig.json
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\EzStallConsole.runtimeconfig.dev.json
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\EzStallConsole.dll
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\EzStallConsole.pdb
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\SharpDX.dll
+D:\git\EzStallConsole\EzStallConsole\bin\Release\netcoreapp3.1\SharpDX.XInput.dll
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.csprojAssemblyReference.cache
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.AssemblyInfoInputs.cache
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.AssemblyInfo.cs
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.csproj.CoreCompileInputs.cache
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.csproj.CopyComplete
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.dll
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.pdb
+D:\git\EzStallConsole\EzStallConsole\obj\Release\netcoreapp3.1\EzStallConsole.genruntimeconfig.cache

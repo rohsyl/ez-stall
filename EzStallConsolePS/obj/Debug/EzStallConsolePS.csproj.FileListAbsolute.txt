@@ -1,0 +1,17 @@
+D:\git\EzStallConsole\EzStallConsolePS\obj\Debug\EzStallConsolePS.csprojAssemblyReference.cache
+D:\git\EzStallConsole\EzStallConsolePS\obj\Debug\EzStallConsolePS.csproj.CoreCompileInputs.cache
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\EzStallConsolePS.exe.config
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\EzStallConsolePS.exe
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\EzStallConsolePS.pdb
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\SharpDX.DirectInput.dll
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\SharpDX.dll
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\SharpDX.pdb
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\SharpDX.DirectInput.pdb
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\SharpDX.DirectInput.xml
+D:\git\EzStallConsole\EzStallConsolePS\obj\Debug\EzStallConsolePS.csproj.CopyComplete
+D:\git\EzStallConsole\EzStallConsolePS\obj\Debug\EzStallConsolePS.exe
+D:\git\EzStallConsole\EzStallConsolePS\obj\Debug\EzStallConsolePS.pdb
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\EzStallConsolePS.exe.manifest
+D:\git\EzStallConsole\EzStallConsolePS\bin\Debug\EzStallConsolePS.application
+D:\git\EzStallConsole\EzStallConsolePS\obj\Debug\EzStallConsolePS.exe.manifest
+D:\git\EzStallConsole\EzStallConsolePS\obj\Debug\EzStallConsolePS.application
